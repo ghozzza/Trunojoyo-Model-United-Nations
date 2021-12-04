@@ -17,11 +17,11 @@ body {
 
 a {
     text-decoration: none;
-    color: #8fc04e;
+    color: #c04e4e;
 }
 
 a:hover {
-    color: #a7cd74;
+    color: #c04e4e;
     text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ h6 {
     right: 15px;
     bottom: 15px;
     z-index: 996;
-    background: #8fc04e;
+    background: #c04e4e;
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -214,7 +214,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-    color: #8fc04e;
+    color: #c04e4e;
 }
 
 .navbar .getstarted,
@@ -267,7 +267,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-    color: #8fc04e;
+    color: #c04e4e;
 }
 
 .navbar .dropdown:hover>ul {
@@ -466,12 +466,12 @@ h6 {
     border-radius: 50px;
     transition: 0.5s;
     margin: 10px;
-    border: 2px solid #8fc04e;
+    border: 2px solid #c04e4e;
     color: #fff;
 }
 
 #hero .btn-get-started:hover {
-    background: #8fc04e;
+    background: #c04e4e;
 }
 
 @media (min-width: 1024px) {
@@ -780,7 +780,7 @@ section {
 .counts .counters span {
     font-size: 48px;
     display: block;
-    color: #8fc04e;
+    color: #c04e4e;
 }
 
 .counts .counters p {
@@ -887,7 +887,7 @@ section {
 
 .services .icon-box:hover h4 a,
 .services .icon-box:hover .icon i {
-    color: #8fc04e;
+    color: #c04e4e;
 }
 
 .services .icon-box:hover .icon {
@@ -1760,7 +1760,7 @@ section {
 #footer .footer-top .social-links a {
     font-size: 18px;
     display: inline-block;
-    background: #8fc04e;
+    background: #c04e4e;
     color: #fff;
     line-height: 1;
     padding: 8px 0;
